@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "787623893094",
+    "firebase_url": "https://fir-kotlintutorial.firebaseio.com",
+    "project_id": "fir-kotlintutorial",
+    "storage_bucket": "fir-kotlintutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787623893094:android:793b3d34d10c31be",
+        "android_client_info": {
+          "package_name": "appsinthesky.com.firebaseread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787623893094-c2kmsmt8e7dintua24iivp5u6ji1e7qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZMe7zyVayPWpr6kgZVe9ckpz0PK7a9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
